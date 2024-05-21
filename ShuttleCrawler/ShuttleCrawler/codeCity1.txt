@@ -1,0 +1,64 @@
+Hồ Chí Minh,129
+Hà Nội,124
+An Giang,11
+Bà Rịa Vũng Tàu,12
+Bạc Liêu,15
+Bắc Kạn,14
+Bắc Ninh,16
+Bến Tre,17
+Bình Dương,19
+Bình Định,18
+Bình Phước,110
+Bình Thuận,111
+Buôn Ma Thuột,2143
+Cà Mau,112
+Cao Bằng,114
+Cần Thơ,131
+Côn Đảo,217
+Đà Lạt,2399
+Đà Nẵng,115
+Đắk Lắk,116
+Đắk Nông,117
+Điện Biên,118
+Đồng Nai,119
+Đồng Tháp,120
+Hà Giang,122
+Hạ Long,2554
+Hà Nam,123
+Hà Tiên,2369
+Hà Tĩnh,125
+Hải Phòng,127
+Hòa Bình,130
+Huế,157
+Kiên Giang,133
+Kon Tum,134
+Lạng Sơn,137
+Lào Cai,138
+Long An,139
+Nam Định,140
+Nghệ An,141
+Nha Trang,2359
+Ninh Bình,142
+Ninh Thuận,143
+Phan Thiết,296
+Phú Quốc,2373
+Phú Thọ,144
+Phú Yên,145
+Pleiku,2213
+Quảng Bình,146
+Quảng Ngãi,148
+Quảng Ninh,149
+Quảng Trị,150
+Quy Nhơn,268
+Sóc Trăng,151
+Sơn La,152
+Sa Pa Lao Cai,2424
+Tây Ninh,153
+Thái Bình,154
+Thanh Hóa,156
+Tiền Giang,158
+Trà Vinh,159
+Tuyên Quang,160
+Vĩnh Long,161
+Vĩnh Phúc,162
+Yên Bái,163

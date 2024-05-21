@@ -1,0 +1,64 @@
+cityStartName,cityEndName,priceLowest,nameBus,durationBus
+Hồ Chí Minh,Hà Nội, 900.000đ,Hoàng Long TN,35h
+Hồ Chí Minh,An Giang, 160.000đ,Huệ Nghĩa,6h7m
+Hồ Chí Minh,Bà Rịa Vũng Tàu, 150.000đ,Hoa Mai,2h25m
+Hồ Chí Minh,Bạc Liêu, 136.000đ,Tuấn Hưng,6h
+Hồ Chí Minh,Bắc Kạn,,,
+Hồ Chí Minh,Bắc Ninh,,,
+Hồ Chí Minh,Bến Tre, 90.000đ,Thảo Châu,2h15m
+Hồ Chí Minh,Bình Dương, 100.000đ,Mỹ Hằng - Bình Phước,0h40m
+Hồ Chí Minh,Bình Định, 310.000đ,Mạnh Hùng,10h40m
+Hồ Chí Minh,Bình Phước, 100.000đ,Thành Công,2h45m
+Hồ Chí Minh,Bình Thuận,Từ 150.000đ,Nam Hải Limousine,3h
+Hồ Chí Minh,Buôn Ma Thuột, 250.000đ,Hải Luân,8h45m
+Hồ Chí Minh,Cà Mau,Từ 120.000đ,Tuấn Hưng,7h10m
+Hồ Chí Minh,Cao Bằng, 200.000đ,Xe Ty Le,11h
+Hồ Chí Minh,Cần Thơ, 1.000.000đ,Nhật Cường (Hải Phòng),37h
+Hồ Chí Minh,Côn Đảo,,,
+Hồ Chí Minh,Đà Lạt, 200.000đ,Cảnh Hoa,6h50m
+Hồ Chí Minh,Đà Nẵng, 499.000đ,Phi Long - Huế,18h25m
+Hồ Chí Minh,Đắk Lắk, 250.000đ,Hải Luân,8h45m
+Hồ Chí Minh,Đắk Nông, 200.000đ,Phương Hồng Linh,6h55m
+Hồ Chí Minh,Điện Biên,,,
+Hồ Chí Minh,Đồng Nai, 140.000đ,Trường Thịnh Limousine,1h
+Hồ Chí Minh,Đồng Tháp, 150.000đ,Huệ Nghĩa,4h32m
+Hồ Chí Minh,Hà Giang,,,
+Hồ Chí Minh,Hạ Long,,,
+Hồ Chí Minh,Hà Nam,,,
+Hồ Chí Minh,Hà Tiên, 200.000đ,Hoàng Minh,8h30m
+Hồ Chí Minh,Hà Tĩnh, 700.000đ,A Ba,28h4m
+Hồ Chí Minh,Hải Phòng, 1.080.000đ,Tân Aba,27h52m
+Hồ Chí Minh,Hòa Bình,,,
+Hồ Chí Minh,Huế, 499.000đ,Phi Long - Huế,20h5m
+Hồ Chí Minh,Kiên Giang, 175.000đ,Kumho Samco,5h15m
+Hồ Chí Minh,Kon Tum, 300.000đ,Nhật Tân,14h55m
+Hồ Chí Minh,Lạng Sơn, 200.000đ,Xe Ty Le,10h
+Hồ Chí Minh,Lào Cai, 1.350.000đ,Hoàng Long - Hà Nội,50h15m
+Hồ Chí Minh,Long An, 200.000đ,Phương Hồng Linh,2h40m
+Hồ Chí Minh,Nam Định, 900.000đ,Nhật Cường (Hải Phòng),33h
+Hồ Chí Minh,Nghệ An, 750.000đ,A Ba,29h4m
+Hồ Chí Minh,Nha Trang,Từ 200.000đ,Năm Rùm,8h30m
+Hồ Chí Minh,Ninh Bình, 850.000đ,A Ba,34h4m
+Hồ Chí Minh,Ninh Thuận, 180.000đ,Thiện Trí,7h
+Hồ Chí Minh,Phan Thiết,Từ 150.000đ,Nam Hải Limousine,3h
+Hồ Chí Minh,Phú Quốc,,,
+Hồ Chí Minh,Phú Thọ,,Khoa Như Tĩnh,37h30m
+Hồ Chí Minh,Phú Yên,Từ 200.000đ,Năm Rùm,11h10m
+Hồ Chí Minh,Pleiku, 270.000đ,Kính Diên Hồng,11h
+Hồ Chí Minh,Quảng Bình, 650.000đ,A Ba,25h4m
+Hồ Chí Minh,Quảng Ngãi, 400.000đ,Thuận Tâm,16h30m
+Hồ Chí Minh,Quảng Ninh,,,
+Hồ Chí Minh,Quảng Trị, 595.000đ,Tân Quang Dũng,25h
+Hồ Chí Minh,Quy Nhơn, 310.000đ,Mạnh Hùng,10h40m
+Hồ Chí Minh,Sóc Trăng, 160.000đ,Mỹ Duyên,4h15m
+Hồ Chí Minh,Sơn La,,,
+Hồ Chí Minh,Sa Pa Lao Cai, 1.350.000đ,Hoàng Long - Hà Nội,50h15m
+Hồ Chí Minh,Tây Ninh, 100.000đ,Lê Khánh,2h20m
+Hồ Chí Minh,Thái Bình, 930.000đ,An Bình (Thái Bình),27h
+Hồ Chí Minh,Thanh Hóa, 800.000đ,A Ba,31h49m
+Hồ Chí Minh,Tiền Giang, 90.000đ,Thảo Châu,1h40m
+Hồ Chí Minh,Trà Vinh, 140.000đ,Kim Hoàng,4h
+Hồ Chí Minh,Tuyên Quang,,,
+Hồ Chí Minh,Vĩnh Long, 140.000đ,Kim Hoàng,4h
+Hồ Chí Minh,Vĩnh Phúc,,Công Tuấn,40h
+Hồ Chí Minh,Yên Bái,,Hùng Dương,42h
